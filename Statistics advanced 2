@@ -1,0 +1,32 @@
+A 1. A Probability Mass Function (PMF) is a function that assigns probabilities to each possible outcome of a discrete random variable, meaning it tells you the exact probability of a specific value occurring
+
+Probability Density Function (PDF) does the same for a continuous random variable, but instead gives the probability of a value falling within a certain range, requiring integration to calculate the probability of a specific point
+
+A 2. A Cumulative Distribution Function (CDF) is a statistical function that represents the probability that a random variable will take on a value less than or equal to a specific value "x" within a given probability distribution
+
+EX - Imagine rolling a fair 6-sided dice. 
+Probability Mass Function (PMF): The probability of getting a 3 is 1/6.
+
+  CDF:
+  The probability of getting a number less than or equal to 2 is 2/6 (since there are 2 outcomes - 1 or 2 - that satisfy this condition).
+  The probability of getting a number less than or equal to 4 is 4/6 (since there are 4 outcomes - 1, 2, 3, or 4)
+
+A 3.  The normal distribution is also used as a model for the sampling distribution of many statistics, such as the sample mean and sample proportion.
+    If the distribution will be normal the the graph will be bell curved because the mean , median and mode will appear in the same place and value.
+
+A 4. The importance of normal distribution is that is is used in many field such as Healthcare , data science , Statistics , psycological and educational measurements also.The real world examples where normal distribution is used are 
+    Height, birth weight, reading ability, job satisfaction, or SAT score , Mental Pressure.
+
+A 5. Bernaulli distribution is a distribution in which in any event type there will be only two outcomes.
+ The difference between bernauli and binomial distribution is :
+
+ Bernaulli distribution is a distribution in which in any event type there will be only two outcomes
+ Binomial distribution models the number of successes in a sequence of multiple independent Bernoulli trial
+
+A 7. A uniform distribution is a probability distribution where all outcomes are equally likely
+
+A 8. A z-score is a statistical measurement that indicates how many standard deviations a data point is away from the mean in a given distribution . A z-score is important because it allows you to compare data points from different distributions by standardizing them, essentially telling you how many standard deviations a particular data point is away from the mean
+
+A 9. The central limit theorem says that the sampling distribution of the mean will always be normally distributed, as long as the sample size is large enough.The Central Limit Theorem (CLT) is significant because it allows statisticians to make inferences about a population based on a sample, even if the population distribution is not normally distributed, as long as the sample size is large enough
+
+A 10. The assumptions of central limit theorem are : Random Sampling , Independence , Large sample size , Finite Population Variance 
